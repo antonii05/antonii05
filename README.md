@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Bienvenido!</strong><br>
+  <strong>:wave:Bienvenido!</strong><br>
   <strong>Soy Antonio Blázquez Jiménez</strong>
   <br>
   Desarrollador y Estudiante de aplicaciones multiplataforma
@@ -9,7 +9,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonii05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonii05&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 

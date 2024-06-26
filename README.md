@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Lenguajes Empleados</h2>
+<h2 align="center">Lenguajes Utilizados</h2>
 
 ###
 
